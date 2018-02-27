@@ -1,0 +1,1 @@
+python2 generate_sentence.py
